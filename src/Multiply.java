@@ -9,7 +9,6 @@ public class Multiply {
         System.out.print("b= " ); b = in.nextDouble();
         double p = 2*(a+b);
         System.out.println(p);
-        in.close();
     }
 
 }
